@@ -13,7 +13,7 @@
 
 ### About Me
 
-Full-Stack Developer with hands-on production experience building real-time monitoring portals for **West Bengal state election operations** at Vmukti Solutions. I build end-to-end features  from REST APIs to responsive UIs and care about writing code that actually works in production.
+Full-Stack Developer with hands-on production experience building real-time monitoring portals. I build end-to-end features  from REST APIs to responsive UIs and care about writing code that actually works in production.
 
 
 ---
